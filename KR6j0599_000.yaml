@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0599/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 百千印陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1369a.xml
+    old_id: T21n1369a
+hash: sha256:c76961781eda8e54ac5732ab3e4a130363f4ebecf2d9c1c3eec4174e3fc5f661

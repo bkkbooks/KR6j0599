@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0599/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0599/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 百千印陀羅尼經
+  identifiers:
+    krp: KR6j0599
+    cbeta: T21n1369a
+    cbeta_old_id: T21n1369a
+    authorityid: CA0000154a
+    json_key: T1369a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1369a.xml
+    old_id: T21n1369a
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0599_000-T.yaml, hash: 'sha256:c76961781eda8e54ac5732ab3e4a130363f4ebecf2d9c1c3eec4174e3fc5f661'}
+  - {seq: 1, filename: KR6j0599_001-T.yaml, hash: 'sha256:704fb052d662679f7cf3cc0fc7f80aaf3b7bfbf3503d165640f7dd1f6d876091'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0599_000-T.markers.yaml, hash: 'sha256:51abb23cbb2854f6bbc9570f9ac0028c68c8d28a949d4b6120a65f14843d7b06'}
+  - {seq: 1, role: markers, filename: assets/KR6j0599_001-T.markers.yaml, hash: 'sha256:2ed5b4a1de522b58fa1ce76d7ac042dc8ded642dbdf23f30a35904eea7e8cf6c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0599_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 435
+  label: 百千印陀羅尼經一卷
+  type: juan
+  level: 1
+hash: sha256:9934729b7bb83c908c105312665ee6ac53e5bad5d39578e795be9a529ce19314
