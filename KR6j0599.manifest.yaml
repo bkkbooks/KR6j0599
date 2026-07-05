@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0599_000.yaml, hash: 'sha256:c76961781eda8e54ac5732ab3e4a130363f4ebecf2d9c1c3eec4174e3fc5f661'}
-  - {seq: 1, filename: KR6j0599_001.yaml, hash: 'sha256:04d3b8a8ead7e86517cf172fb550f0b2e1d82d3b6a725e30c3635c9277639beb'}
+  - {seq: 1, filename: KR6j0599_001.yaml, hash: 'sha256:704fb052d662679f7cf3cc0fc7f80aaf3b7bfbf3503d165640f7dd1f6d876091'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0599_001.markers.yaml, hash: 'sha256:586f00f2d2064a6cc43fa0fe0466e69dec4ff833cc117b4d009cb7a9a990fe20'}
+  - {seq: 0, role: markers, filename: assets/KR6j0599_000.markers.yaml, hash: 'sha256:e7712f2fd41980b485935c2e58a54bea2e7796930e4e344148224bb248a9d986'}
+  - {seq: 1, role: markers, filename: assets/KR6j0599_001.markers.yaml, hash: 'sha256:3aa7f2fe6caa2660c2d65a1e7ff71ae4dd4edf24d534e8c19ce76c7d762efd08'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 百千印陀羅尼經一卷
   type: juan
   level: 1
-hash: sha256:a36797b725f45ad5356db392e27c90753f8ab8bd8aa28b69e5524cbeacd219bd
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:efb805307259945d5abda07e275e32930891d019890289124d8bfb21311b9f1f
 editions:
 - short: T
