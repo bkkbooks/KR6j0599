@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0599/v1
 canonical_location: https://kanripo.org/bkk/KR6j0599/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 百千印陀羅尼經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0599_000.yaml, hash: 'sha256:c76961781eda8e54ac5732ab3e4a130363f4ebecf2d9c1c3eec4174e3fc5f661'}
-  - {seq: 1, filename: KR6j0599_001.yaml, hash: 'sha256:704fb052d662679f7cf3cc0fc7f80aaf3b7bfbf3503d165640f7dd1f6d876091'}
+  - {seq: 1, filename: KR6j0599_001.yaml, hash: 'sha256:0e859c1e61104716fc80ad447f1bfaf4ad3b05e9c9f71658ac37165bdf9c7249'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0599_000.markers.yaml, hash: 'sha256:e7712f2fd41980b485935c2e58a54bea2e7796930e4e344148224bb248a9d986'}
-  - {seq: 1, role: markers, filename: assets/KR6j0599_001.markers.yaml, hash: 'sha256:3aa7f2fe6caa2660c2d65a1e7ff71ae4dd4edf24d534e8c19ce76c7d762efd08'}
+  - {seq: 1, role: markers, filename: assets/KR6j0599_001.markers.yaml, hash: 'sha256:ea74e73a7db00b4617719024bdf2ac4d7ae91ae6a65b53bc4fe7863f1886fa6a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 百千印陀羅尼經一卷
   type: juan
   level: 1
-hash: sha256:efb805307259945d5abda07e275e32930891d019890289124d8bfb21311b9f1f
+hash: sha256:c87dc688ba53e5db0bd6f22e868cd6de39a50f5a2c81a1184949b828176bb645
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
